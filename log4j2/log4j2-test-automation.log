@@ -1,0 +1,12 @@
+[INFO ] 2023-05-06 11:55:13.178 [main] Log - I am in onStart method Test
+[INFO ] 2023-05-06 11:55:21.084 [main] Log - application launched
+[INFO ] 2023-05-06 11:55:21.090 [main] Log - TC001_SignIn test is starting.
+[INFO ] 2023-05-06 11:55:39.668 [main] Log - TC001_SignIn test is Passed.
+[INFO ] 2023-05-06 11:55:39.694 [main] Log - Test completed
+[INFO ] 2023-05-06 11:55:39.694 [main] Log - ==============================================================
+[INFO ] 2023-05-06 11:55:46.615 [main] Log - application launched
+[INFO ] 2023-05-06 11:55:46.616 [main] Log - TC002_ReadTheSenderName test is starting.
+[INFO ] 2023-05-06 11:56:06.420 [main] Log - TC002_ReadTheSenderName test is Passed.
+[INFO ] 2023-05-06 11:56:06.422 [main] Log - Test completed
+[INFO ] 2023-05-06 11:56:06.422 [main] Log - ==============================================================
+[INFO ] 2023-05-06 11:56:07.317 [main] Log - I am in onFinish method Test

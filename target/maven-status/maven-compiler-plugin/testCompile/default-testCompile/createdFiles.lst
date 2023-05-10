@@ -1,0 +1,8 @@
+com\auto\pages\Inboxpage.class
+com\auto\pages\LoginPage.class
+com\auto\commons\CommonMethods.class
+com\auto\tests\LoginToGmailandLogout.class
+com\auto\utilities\Readconfig.class
+com\auto\tests\SigninToGmail.class
+com\auto\tests\BaseClass.class
+com\auto\tests\Login.class
